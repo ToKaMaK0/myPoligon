@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myPoligon", "mySchema\myPoligon.csproj", "{F557D1B1-B806-49E3-BDD2-17310BA74A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F557D1B1-B806-49E3-BDD2-17310BA74A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F557D1B1-B806-49E3-BDD2-17310BA74A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F557D1B1-B806-49E3-BDD2-17310BA74A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F557D1B1-B806-49E3-BDD2-17310BA74A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D839F8-715A-4CB1-A308-2F63BF2872B7}
+	EndGlobalSection
+EndGlobal
