@@ -18,7 +18,6 @@ namespace ConnectionDB
             // 23-00
             // 23-03
             //23-05
-            // 23-12
             //string dbFilePath = "D:\\_DB_project.mdb";
             string dbFilePath = "D:\\_DB_project_poligon.accdb";
 
