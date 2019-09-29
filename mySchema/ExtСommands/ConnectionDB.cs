@@ -14,7 +14,9 @@ namespace ConnectionDB
     { 
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-
+            // 2019-09-29
+            // 23-00
+            // 23-03
             //string dbFilePath = "D:\\_DB_project.mdb";
             string dbFilePath = "D:\\_DB_project_poligon.accdb";
 
