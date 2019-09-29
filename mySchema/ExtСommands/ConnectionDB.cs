@@ -17,6 +17,7 @@ namespace ConnectionDB
             // 2019-09-29
             // 23-00
             // 23-03
+            //23-05
             //string dbFilePath = "D:\\_DB_project.mdb";
             string dbFilePath = "D:\\_DB_project_poligon.accdb";
 
